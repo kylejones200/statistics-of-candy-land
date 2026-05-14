@@ -12,7 +12,7 @@ some things that we can do to understand the probability that you...
 
 Candy Land is a game known as being just a game of chance, but there are some things that we can do to understand the probability that you get a specific card.
 
-[**Candy Land - Wikipedia**\ *Designers Eleanor Abbott Publishers Milton Bradley Hasbro Publication 1949; 75 years ago Years active 1949-present...*en.wikipedia.org](https://en.wikipedia.org/wiki/Candy_Land "https://en.wikipedia.org/wiki/Candy_Land")[](https://en.wikipedia.org/wiki/Candy_Land)
+[Candy Land - Wikipedia\ *Designers Eleanor Abbott Publishers Milton Bradley Hasbro Publication 1949; 75 years ago Years active 1949-present...*en.wikipedia.org](https://en.wikipedia.org/wiki/Candy_Land "https://en.wikipedia.org/wiki/Candy_Land")[](https://en.wikipedia.org/wiki/Candy_Land)
 #### Distribution of colors
 We can count the number of cards that are in a set and on the onset you might imagine that the numbers are evenly distributed, but they're not. Not only are there a different number of the colored cards, but the special cards add an extra variable so we first make a frequency table of the different options.
 
